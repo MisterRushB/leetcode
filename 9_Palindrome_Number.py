@@ -1,4 +1,4 @@
-class Num: 
+class Num:
     def __init__(self,x): 
         self.x=x
     def isPalin(self): 
